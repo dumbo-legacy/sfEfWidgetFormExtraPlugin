@@ -1,0 +1,44 @@
+.jquery-radio {
+	display: inline;
+	font-size: 20px;
+	line-height: 20px;
+	cursor: pointer;
+}
+
+.jquery-radio .mark {
+	display: inline;
+}
+
+.jquery-radio img {
+	vertical-align: middle;
+	width: 16px;
+	height: 25px;
+}
+
+.jquery-radio img {
+	background: transparent url(../images/radio.png) no-repeat;
+}
+
+.jquery-radio img {
+	background-position: 0px 0px;
+}
+
+.jquery-radio-hover img {
+	background-position: 0px -25px;
+}
+
+.jquery-radio-checked img {
+	background-position: 0px -50px;
+}
+
+.jquery-radio-checked .jquery-radio-hover img {
+	background-position: 0px -75px;
+}
+
+.jquery-radio-disabled img {
+	background-position: 0px 0px;
+}
+
+.jquery-radio-checked .jquery-radio-disabled img {
+	background-position: 0px 0px;
+}
