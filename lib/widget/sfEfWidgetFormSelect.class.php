@@ -4,8 +4,8 @@
  *
  * @package    sfEfWidgetFormExtraPlugin
  * @subpackage widget
- * @author     Yaismel Miranda Pons <ympons@estudiantes.uci.cu>
- *             Edier García Gutierrez <egarciagu@uci.cu>
+ * @author     Yaismel Miranda Pons <yaismelmp@googlemail.com>
+ *             Edier García Gutierrez
  * @version    SVN: $Id$
  */
 class sfEfWidgetFormSelect extends sfWidgetForm
