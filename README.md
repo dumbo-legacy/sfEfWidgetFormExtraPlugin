@@ -30,4 +30,3 @@ Widgets
   * sfEfWidgetFormSelectCheckbox: Displays a checkbox list widget
   * sfEfWidgetFormSelectRadio: Displays a radio list widget
 
-####Sorry for my English, because it is not very good.
